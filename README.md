@@ -1,6 +1,7 @@
 ﻿# Conectivity Watcher
 
-Helper to control internet connectivity for Universal Windows Platform
+Helper to control internet connectivity for Universal Windows Platform.
+
 Date: 29/04/2016
 
 * How to use:
